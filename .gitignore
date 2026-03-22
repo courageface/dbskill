@@ -2,7 +2,9 @@
 chatbot/
 plans/
 skills 版本管理/
+社媒推广/
 .DS_Store
+.obsidian/
 
 # 知识库：只发 Skill 需要的部分
 知识库/legacy/
